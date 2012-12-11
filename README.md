@@ -3,7 +3,7 @@ django_info
 
 Django application to display useful information about a Django project. Something like php_info()
 
-Requiremnts
+Requirements
 =========
 
 * Python >= 2.5
