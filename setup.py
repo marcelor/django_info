@@ -23,7 +23,7 @@ def long_description():
         return LONG_DESCRIPTION
 
 
-setup(name='django_info',
+setup(name='django-info',
       version=version,
       author='marcelor',
       author_email='marcelor@gmail.com',
