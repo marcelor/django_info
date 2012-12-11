@@ -1,11 +1,24 @@
 django_info
 ===========
 
-Django application to display useful information about a Django project.
+Django application to display useful information about a Django project. Something like php_info()
+
+Requiremnts
+=========
+
+* Python >= 2.5
+* Django >= 1.0
 
 
 How to install
 ========
+
+Via pip install:
+
+> pip install django_info
+
+or, manually:
+
 
 * Add  'django_info' to INSTALLED_APPS
 
