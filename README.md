@@ -4,8 +4,8 @@ django_info
 Django application to display useful information about a Django project.
 
 
-HOW TO INSTALL
-===========
+How to install
+========
 
 * Add  'django_info' to INSTALLED_APPS
 
