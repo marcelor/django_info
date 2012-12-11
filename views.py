@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
+import os
 import sys
-import sysconfig
 from django.contrib.auth.decorators import login_required
 from django import get_version as get_django_version
 from django.template import RequestContext
@@ -9,7 +9,7 @@ from django.conf import settings
 
 
 def get_platform():
-    return sysconfig.get_platform()
+    return ' '.join(os.uname())
 
 
 def get_python_version():
