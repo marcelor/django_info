@@ -1,3 +1,4 @@
 build
 *egg*
 *.pyc
+django_info_test/*
