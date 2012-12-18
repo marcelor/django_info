@@ -10,6 +10,7 @@ Requirements
 * Django >= 1.0
 
 
+
 How to install
 ========
 
@@ -24,4 +25,4 @@ or, manually:
 
 * Add  url(r'^django/', include('django_info.urls')) to the global urls.py
 
-* Visit the url /django/info/
+* Visit the url /django/info/ (login is required to view information)
